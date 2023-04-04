@@ -1,11 +1,9 @@
 👋 Welcome!
 
-New technology is comming! let me check it :)
+As an experienced developer, I specialize in creating clean and scalable microservices architectures using Domain-Driven Design (DDD) principles. I am committed to delivering high-quality, enterprise-grade solutions that meet the unique needs of each of my clients.
 
-Here something about me:
+I strongly believe that using a clean architecture approach is essential to building software systems that are easy to maintain, test, and extend. My architecture focuses on clear separation of concerns, with each component of the system having a well-defined responsibility. By using DDD principles, I ensure that the domain model is the core of the system, driving its design and implementation.
 
-    🔭 I’m currently working at Unipoly and Diffancy as software engineer
-    🏆 I,ve 13 years experience in .NET and 4 years in creating enterprise architecture with .NET
-    💪 I’m specialist in .NET and create clean architecture with .NET
-    💬 Ask me about: DDD, Microservice, DesignPatterns, CQRS, MongoDB, RabbitMQ, Docker, Handling Traffic :)
- 
+My expertise in microservices allows me to build systems that are modular, decoupled, and resilient, making them easier to manage and scale. I use proven technologies such as .NET Core, MongoDB, and Docker to create systems that are reliable, secure, and efficient.
+
+As a developer, I am committed to working closely with my clients to understand their business needs and provide them with the best solutions possible.
